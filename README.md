@@ -30,29 +30,30 @@ Outlet_Size, Outlet_Location_Type, Outlet_Type, Item_Outlet_Sales
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
+#### Item_Outlet_Sales Versus Outlet_Size
 ![My Image](fig1.png)
 
-> Sentence about visualization.
+> The highest sales is seen in the Medium then small and least in the high outlet_size
 
-#### Visual 2 Title
+#### Boxplots showing relationship of Item_Outlet_Sales and Outlet_Location_Type
+
+![My Image](fig_2.png)
+>There are very many outlier values affecting the distribution of sales. Teir 1 has median of 1500 in sales, teir 2 has median of sales with 2000 in sales and teir 3 with 1900 in sales. When you look at the ranges and interquartile ranges, Teir 1 and Teir 2 have lower values than Teir 3. All the locations are skewed positvely All the locations have multple outliers with teir 3 having the highest. Overall teir 3 has the most sales because of its spread and the concentration of outliers
 
 ## Model
 
-Describe your final model
+I chose the linear regression model because I achieved an R^2 score  was 0.4998900106557477 on Model training and 0.5009230284932022 on model testing. The Root mean squared error(RMSE) for the model on training data is 1216.5744370385087 and that of testing data set is 1173.431731825326. The R^2 value indicates that the model is explaining 50% of the variation in Item_Outlet_Sales. The RMSE value for the testing data shows that our model is off by 1173.4317. Nevertheless, the RMSE was lower on the testing data than on the traing data suggesting the model is generalizing the data well
 
-Report the most important metrics
 
-Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
 
-More of your own text here
+I recommend trying out different models such as bagged trees and random forest regression models to improve my model
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+M
 
 
 ### For further information
