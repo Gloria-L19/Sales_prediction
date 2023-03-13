@@ -53,10 +53,10 @@ I recommend trying out different models such as bagged trees and random forest r
 
 ## Limitations & Next Steps
 
-M
+
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact glorialamunu19@gmail.com
