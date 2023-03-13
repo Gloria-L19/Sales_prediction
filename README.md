@@ -31,7 +31,7 @@ Outlet_Size, Outlet_Location_Type, Outlet_Type, Item_Outlet_Sales
 
 
 #### Visual 1 Title
-![sample image](https://drive.google.com/file/d)
+![My Image](fig1.png)
 
 > Sentence about visualization.
 
